@@ -61,7 +61,9 @@ CentOS 8 is recommended
 | :--- | :--- | :--- | :--- |
 | ~~6~~ | ~~10 July 2011~~ | ~~10 May 2017~~ | ~~30 November 2020~~ |
 | 7 | 7 July 2014 | 6 August 2020 | 30 June 2024 |
-| 8 | 24 September 2019 | 1 May 2024 | 31 May 2029 |
+| 8 | 24 September 2019 | 31 Dec 2021 | 31 Dec 2021 |
+
+[https://wiki.centos.org/About/Product](https://wiki.centos.org/About/Product)
 
 ### EPEL
 
